@@ -79,8 +79,8 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-**Madari Srikanth**  
-B.Tech Student | Web Developer  
+**santhosh**  
+ Web Developer  
 
 ## 📜 License
 
